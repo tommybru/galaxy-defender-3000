@@ -1,6 +1,6 @@
 ## GALAXY DEFENDER 3000 - Swift
 
-![Demo](http://www.giphy.com/gifs/gIlbffVxmaXbMuO2tv)
+![Demo](Galaxy-Defender-3000.gif)
 
 Design Goals: 
 - Communicating the special abilities (clicking further away from the ship makes the bullets travel faster, force fields on the protected asteroids, freezing bullets when ship is it) in a way that doesn't require the user to read any instructions, but intuitively understand when they arise.
