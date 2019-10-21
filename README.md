@@ -3,7 +3,7 @@
 ![Demo](Galaxy-Defender-3000.gif)
 
 ## Design Goal: 
-Communicating the special abilities in a way that doesn't require the user to read any instructions, but intuitively understand when they arise: 
+Communicating special feature in a way that is intuitive to users and doesn't require instructions: 
  - Clicking further away from the ship makes the bullets travel faster,
  - Force fields on the protected asteroids, 
  - and freezing bullets when ship is hit
