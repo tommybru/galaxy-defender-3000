@@ -1,7 +1,7 @@
 # GALAXY DEFENDER 3000 - Swift
 
 ## Final Demo
-![Demo gif](Galaxy-Defender-3000.gif)
+![Demo gif](images/Galaxy-Defender-3000.gif)
 
 ## Design Goal: 
 This game has 3 special features, but an instruction guide would be too tedious for users.
@@ -15,4 +15,4 @@ The features were:
 This goal was achieved. Test users immediately understood the blue force-field rings and the frozen-ship symbols and learned how the bullets worked almost instantly. 
 
 ## First draft of Design Spec
-![Design spec](Galaxy-Defender-3000-Spec.png)
+![Design spec](images/Galaxy-Defender-3000-Spec.png)
