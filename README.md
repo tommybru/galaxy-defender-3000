@@ -4,12 +4,12 @@
 ![Demo gif](Galaxy-Defender-3000.gif)
 
 ## Design Goal: 
-Communicating special feature in a way that is intuitive to users and doesn't require instructions: 
- - Clicking further away from the ship makes the bullets travel faster,
- - force fields on the protected asteroids, 
- - and freezing bullets when ship is hit
- 
-This goal was achieved. Test users immediately understood the blue rings and the light-blue ship symbols (they play into mainstream representations) and users learned how the bullets worked almost instantly. 
+This game has 3 special features, but an instruction guide would be too tedious for users to bother with.
+My goal was to make the features intuitive and easily learnable as you played.
 
-## Original Design Spec
-![Design Spec](Galaxy-Defender-3000-Spec.png)
+The features were: 
+ - Clicking further away from the ship makes the bullets travel faster (learned through trial and error)
+ - force fields on the protected asteroids (intuitive by design of force fields) 
+ - and freezing bullets when ship is hit (intuitive by design of frozen ship and learned by inability to click)
+ 
+This goal was achieved. Test users immediately understood the blue force-field rings and the frozen-ship symbols and learned how the bullets worked almost instantly. 
