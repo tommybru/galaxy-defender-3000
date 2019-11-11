@@ -13,3 +13,6 @@ The features were:
  - Freezing bullets when ship is hit (intuitive by design of frozen ship and learned by inability to shoot bullets)
  
 This goal was achieved. Test users immediately understood the blue force-field rings and the frozen-ship symbols and learned how the bullets worked almost instantly. 
+
+## First draft of Design Spec
+![Design spec](Galaxy-Defender-3000-Spec.png)
