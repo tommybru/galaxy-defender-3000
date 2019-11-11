@@ -4,8 +4,8 @@
 ![Demo gif](Galaxy-Defender-3000.gif)
 
 ## Design Goal: 
-This game has 3 special features, but an instruction guide would be too tedious for users to bother with.
-My goal was to make the features intuitive and easily learnable as you played.
+This game has 3 special features, but an instruction guide would be too tedious for users.
+My goal was to make the features intuitive and easily learnable as users played.
 
 The features were: 
  - Clicking further away from the ship makes the bullets travel faster (learned through trial and error)
