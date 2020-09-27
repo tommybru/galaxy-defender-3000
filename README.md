@@ -1,16 +1,13 @@
-# GALAXY DEFENDER 3000 - Swift
+# GALAXY DEFENDER 3000 - built with Swift
 
-## Final Demo
+This game has 3 special features I built to be intuitive and easily learnable. Instruction guides for mini-games can otherwise disrupt a seamless UX.
+ 1. Clicking further away from the ship makes the bullets travel faster, learned through quick trial and error as every click reinforces this feature 
+ 2. Force fields on the protected asteroids, learned visually by drawing the well-explored illustration of blue force-field rings
+ 3. Freezing bullets when ship is hit, learned visually by design of frozen ship and again by trial and error as every click reinforces the inability to shoot
+ 
+Test users immediately understood the force-field rings and the frozen-ship design, and they learned how the bullets worked almost instantly due to how frequently they clicked to shoot aliens. 
+
+## Demo
 ![Demo gif](images/Galaxy-Defender-3000.gif)
 
-## Design Goal: 
-This game has 3 special features, but an instruction guide would be too tedious for users.
-My goal was to make the features intuitive and easily learnable as users played.
-
-The features were: 
- - Clicking further away from the ship makes the bullets travel faster (learned through trial and error)
- - Force fields on the protected asteroids (intuitive by design of force fields) 
- - Freezing bullets when ship is hit (intuitive by design of frozen ship and learned by inability to shoot bullets)
- 
-This goal was achieved. Test users immediately understood the blue force-field rings and the frozen-ship symbols and learned how the bullets worked almost instantly. 
 
