@@ -14,5 +14,3 @@ The features were:
  
 This goal was achieved. Test users immediately understood the blue force-field rings and the frozen-ship symbols and learned how the bullets worked almost instantly. 
 
-## First draft of Design Spec
-![Design spec](images/Galaxy-Defender-3000-Spec.png)
